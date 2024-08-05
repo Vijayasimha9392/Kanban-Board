@@ -14,5 +14,5 @@ This project is a Kanban board built with ReactJS, Redux, React DnD, and Materia
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/kanban-board.git
+   git clone https://github.com/Vijayasimha9392/Kanban-Board
    cd kanban-board
